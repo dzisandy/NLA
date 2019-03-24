@@ -13,7 +13,7 @@ Numerical linear algebra forms the basis for all modern computational mathematic
 
 [3. Homework 3](https://github.com/dzisandy/NLA/blob/master/dzis_andrei_3.ipynb)
 
-[4. Final Project](https://github.com/NikolayKozyrskiy/nla-project)
+[4. Final Project](https://github.com/dzisandy/nla-project)
 
 ## Instructor
 * **Ivan Oseledets** - *Associate Professor* - [Link](https://faculty.skoltech.ru/people/ivanoseledets)
